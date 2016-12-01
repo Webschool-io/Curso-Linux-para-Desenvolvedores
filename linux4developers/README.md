@@ -26,8 +26,10 @@
       - Composer
       - Apache2
       - Nginx
+      - MySQL
     - Instalando o NodeJS
       - NodeJS
+      - MongoDB
       - NPM
       - Módulos Úteis do NPM
     - Linux para Front-End
